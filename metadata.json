@@ -1,0 +1,6 @@
+{
+  "name": "Etornam Sepenoo — Personal Website",
+  "description": "A modern, sleek dark-themed personal website showcasing bio, core skills, and direct contact options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
